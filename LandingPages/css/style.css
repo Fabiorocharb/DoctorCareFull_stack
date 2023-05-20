@@ -119,11 +119,11 @@ h2 {
   margin-top: 8%;
   width: 100%;
   height: 1px;
-  background: #FFFFFF;
-  transform: matrix(-1,0,0,1,0,0);
+  background: #ffffff;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
   color: rgba(255, 255, 255, 1);
 }
-h1{
+h1 {
   font-family: DMSans-Regular;
   font-weight: 700;
   font-size: 36px;
@@ -131,7 +131,7 @@ h1{
   text-align: center;
   color: #0f241d;
   margin-top: 141px;
-} 
+}
 
 .tratamentos {
   font-family: DMSans-Regular;
@@ -141,5 +141,88 @@ h1{
   line-height: 23px;
   text-align: center;
   color: #0f241d;
-  
+  margin-left: 0%;
+}
+.iconecabelo {
+  margin-left: 40%;
+  margin-top: 10%;
+}
+h6 {
+  font-family: Poppins-Regular;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  margin-top: 5%;
+}
+.terapiacompleta {
+  font-family: DMSans-Regular;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+  color: #767676;
+  margin-left: 0;
+  margin-top: 5%;
+}
+.Capilar {
+  width: 352px;
+  height: 352px;
+  margin-left: 16%;
+  margin-top: 5%;
+  left: 20px;
+  top: 359px;
+  background: #f9f9f9;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+}
+.cortes {
+  width: 352px;
+  height: 352px;
+  margin-left: 41%;
+  margin-top: -18.5%;
+  left: 20px;
+  top: 359px;
+  background: #f9f9f9;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+}
+.tratamentoscapilar {
+  background-color: black;
+  width: 352px;
+  height: 352px;
+  margin-left: 67%;
+  margin-top: -18.5%;
+  left: 20px;
+  top: 359px;
+  background: #f9f9f9;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+}
+
+.primeiroverde {
+  width: 355px;
+  height: 4px;
+  left: 123px;
+  top: 707px;
+  background-color: #69b99d;
+  margin-left: 16%;
+  margin-top: 0%;
+}
+.segundoverde {
+  width: 355px;
+  height: 4px;
+  left: 123px;
+  top: 707px;
+  background-color: #69b99d;
+  margin-left: 41%;
+  margin-top: -0.2%;
+}
+.terceiroverde {
+  width: 355px;
+  height: 4px;
+  left: 123px;
+  top: 707px;
+  background-color: #69b99d;
+  margin-left: 67%;
+  margin-top: -0.2%;
 }

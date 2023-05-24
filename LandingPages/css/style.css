@@ -226,3 +226,100 @@ h6 {
   margin-left: 67%;
   margin-top: -0.2%;
 }
+h4 {
+  font-family: Poppins-Regular;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 54px;
+  text-align: center;
+  color: #0f241d;
+  margin-top: 160px;
+}
+
+#depoimentos1 {
+  margin-left: 16%;
+  margin-top: 5%;
+  width: 544px;
+  height: 264px;
+  height: 264px;
+  left: 123px;
+  top: 332px;
+  background: #ffffff;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+}
+.cliente {
+  font-family: DMSans-Regular;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #0f241d;
+  margin-top: -4%;
+}
+.wanessa {
+  font-family: DMSans-Regular;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #0f241d;
+  margin-left: 23%;
+  margin-top: -6%;
+}
+.minifoto {
+  margin-left: 16%;
+  margin-top: 3%;
+}
+.aspas {
+  position: relative;
+  margin-left: 10%;
+  padding-top: 5%;
+}
+#depoimentos2 {
+  margin-left: 55%;
+  margin-top: -14%;
+  width: 544px;
+  height: 264px;
+  height: 264px;
+  left: 123px;
+  top: 332px;
+  background: #ffffff;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+}
+
+.bolas {
+  margin-top: 8%;
+  margin-left: 48%;
+}
+
+h5 {
+  font-family: Poppins-Regular;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #0f241d;
+  margin-left: 16%;
+  margin-top: 6%;
+}
+.ouvir {
+  font-family: DMSans-Regular;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  margin-left: 16%;
+  margin-top: 2%;
+}
+.final {
+  margin-left: 16%;
+  margin-top: 3%;
+}
+#prefinal {
+  background-color: #f9f9f9;
+  padding: 1%;
+}
+

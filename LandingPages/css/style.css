@@ -390,32 +390,46 @@ footer {
   width: 24px;
   height: 24px;
 }
-@media screen and (max-width: 1536px) and (min-width: 864px){
- 
+@media screen and (max-width: 1536px) and (min-width: 864px) {
+  #logotipo {
+    margin-left: -7%;
+  }
+  h3 {
+    margin-left: 8%;
+  }
   p {
+    margin-left: 8%;
     margin-top: 2%;
   }
   button {
     margin-top: 3%;
+    margin-left: 8%;
   }
   #progressiva {
-    margin-top: -5%;
+    margin-left: -2%;
+    margin-top: -2%;
+  }
+  #mulheres {
+    margin-left: 8%;
   }
   h2 {
-    margin-top: -32%;
-    margin-left: 57%;
+    margin-top: -29%;
+    margin-left: 55%;
   }
   .sobre {
-    margin-left: 57%;
+    margin-left: 55%;
   }
   h1 {
-    margin-left: 5%;
+    margin-left: 6%;
   }
   .tratamentos {
     margin-left: 5%;
   }
   #depoimentos {
     margin-left: 5%;
+  }
+  .aspas {
+    margin-left: 2%;
   }
   #depoimentos2 {
     margin-top: -17.5%;
@@ -441,7 +455,7 @@ footer {
     margin-top: -0.3%;
   }
 }
-@media screen and (max-width: 1440px) and (min-width: 900px){
+@media screen and (max-width: 1440px) and (min-width: 900px) {
   #logotipo {
     margin-left: -10%;
   }
@@ -490,13 +504,191 @@ footer {
   .segundoverde {
     margin-left: 37%;
   }
-  .tratamentoscapilar{
+  .tratamentoscapilar {
     margin-top: -24.8%;
   }
   h4 {
+    margin-left: -10%;
+  }
+  #depoimentos1 {
+    margin-left: 8%;
+  }
+  .aspas {
+    margin-left: 10%;
+  }
+  .cliente {
+    margin-left: 15%;
+    text-align: left;
+  }
+  #depoimentos2 {
+    margin-top: -18.6%;
+  }
+  .bolas {
+    margin-left: 48%;
+  }
+}
+@media screen and (max-width: 1366px) and (min-width: 768px) {
+  h2 {
+    margin-top: -33%;
+  }
+  h1 {
+    margin-left: 2%;
+  }
+  .tratamentos {
+    margin-left: 2%;
+  }
+  .primeiroverde {
+    margin-top: 0%;
+  }
+  .cortes {
+    margin-top: -26.1%;
+  }
+  .tratamentoscapilar {
+    margin-top: -26.2%;
+  }
+  .segundoverde {
+    margin-top: -0.3%;
+  }
+  .terceiroverde {
+    margin-top: -0.2%;
+  }
+  h4 {
+    margin-left: 2%;
+  }
+  #depoimentos2 {
+    margin-top: -19.5%;
+  }
+  .bolas {
+    margin-left: 50%;
+  }
+}
+@media screen and (max-width: 1280px) and (min-width: 950px) {
+  #logotipo {
+    margin-top: -1.5%;
+  }
+  #progressiva {
+    margin-left: -7.1%;
+    margin-top: -8%;
+  }
+  #mulheres {
     margin-left: 0%;
   }
-  #depoimentos {
-    margin-left: 0%;
+  h2 {
+    margin-top: -37%;
+  }
+  h1 {
+    margin-left: -5%;
+  }
+  .tratamentos {
+    margin-left: -5%;
+  }
+  .Capilar {
+    margin-left: 5%;
+  }
+  .primeiroverde {
+    margin-left: 5%;
+    margin-top: 0;
+  }
+  .cortes {
+    margin-left: 36%;
+    margin-top: -27.8%;
+  }
+  .tratamentoscapilar {
+    margin-top: -27.8%;
+  }
+  .segundoverde {
+    margin-top: -0.1%;
+    margin-left: 36%;
+  }
+  h4 {
+    margin-left: -5%;
+  }
+  #depoimentos2 {
+    margin-top: -20.8%;
+  }
+  .bolas {
+    margin-left: 50%;
+  }
+}
+@media screen and (max-width: 1024px) and (min-width: 800px) {
+  #progressiva {
+    width: 50%;
+    height: auto;
+  }
+  #mulheres {
+    width: 50%;
+    height: auto;
+  }
+  h2 {
+    margin-top: -43%;
+    margin-left: 53%;
+  }
+  .sobre {
+    margin-left: 53%;
+  }
+  .iconecabelo {
+    margin-left: 33%;
+  }
+  .Capilar {
+    width: 25%;
+    height: auto;
+  }
+  .cortes {
+    width: 25%;
+    height: auto;
+    margin-top: -27%;
+  }
+  .tratamentoscapilar {
+    margin-top: -25%;
+    width: 25%;
+    height: auto;
+  }
+  .primeiroverde {
+    width: 25%;
+    margin-top: 2%;
+  }
+  .segundoverde {
+    width: 25%;
+    margin-top: -1%;
+  }
+  .terceiroverde {
+    width: 25%;
+    margin-top: 0%;
+  }
+  #depoimentos1 {
+    margin-left: 1%;
+    width: 45%;
+    height: auto;
+  }
+  #depoimentos2 {
+    width: 45%;
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) and (min-width: 320px) {
+}
+@media screen and (min-width: 412px) and (max-width: 846px) {
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  #logotipo {
+    margin-top: -4%;
+    margin-left: -5%;
+  }
+  nav {
+    display: none;
+  }
+  hr {
+    margin-top: 20%;
+  }
+  #progressiva {
+    width: 100%;
+    height: auto;
+    margin-left: -10%;
+  }
+  #mulheres {
+    width: 100%;
+    margin-left: 0;
   }
 }

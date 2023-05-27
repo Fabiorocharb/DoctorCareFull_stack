@@ -665,13 +665,7 @@ footer {
     height: auto;
   }
 }
-@media screen and (max-width: 480px) and (min-width: 320px) {
-}
 @media screen and (min-width: 412px) and (max-width: 846px) {
-  * {
-    padding: 0;
-    margin: 0;
-  }
   #logotipo {
     margin-top: -4%;
     margin-left: -5%;
@@ -683,12 +677,399 @@ footer {
     margin-top: 20%;
   }
   #progressiva {
+    background-size: cover;
     width: 100%;
     height: auto;
-    margin-left: -10%;
+    margin-left: -55%;
+    margin-top: -22%;
+  }
+  h3 {
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 82%;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    width: 100%;
+  }
+  p {
+    text-align: center;
+    margin-left: 0;
+    font-size: 16px;
+  }
+  button {
+    align-items: center;
+    margin-top: 7%;
+    margin-left: 23%;
   }
   #mulheres {
     width: 100%;
+    height: auto;
+    margin-top: 13%;
     margin-left: 0;
+  }
+  h2 {
+    margin-left: 1%;
+    margin-top: 5%;
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .sobre {
+    text-align: left;
+    margin-left: 5%;
+    width: 92%;
+  }
+  h1 {
+    text-align: left;
+    margin-left: 5%;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    margin-top: 15%;
+  }
+  .tratamentos {
+    text-align: left;
+    margin-left: 5%;
+    font-size: 17px;
+    line-height: 26px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .Capilar {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 10%;
+  }
+  .cortes {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 10%;
+  }
+  .tratamentoscapilar {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 10%;
+  }
+  .primeiroverde {
+    margin-top: -158%;
+    margin-left: 5%;
+  }
+  .segundoverde {
+    margin-top: 80%;
+    margin-left: 5%;
+  }
+  .terceiroverde {
+    margin-top: 85%;
+    margin-left: 5%;
+  }
+  h4 {
+    font-size: 25px;
+    line-height: 45px;
+    font-style: normal;
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 15%;
+  }
+  .aspas {
+    margin-left: 0;
+  }
+  .cliente {
+    font-size: 14px;
+  }
+  .wanessa {
+    margin-left: -40%;
+    margin-top: -8%;
+  }
+  .minifoto {
+    margin-left: 5%;
+  }
+  #depoimentos1 {
+    margin-left: 2%;
+    width: 95%;
+  }
+  #depoimentos2 {
+    display: none;
+  }
+  .bolas {
+    margin-left: 42%;
+  }
+  h5 {
+    margin-left: 5%;
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 700;
+  }
+  .ouvir {
+    margin-left: 5%;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    margin-top: 8%;
+  }
+  .final {
+    margin-top: 8%;
+    margin-left: 5%;
+  }
+  .phone {
+    position: relative;
+    margin-left: 6%;
+    margin-top: 15%;
+  }
+  .number {
+    position: relative;
+    margin-left: -45%;
+    margin-top: -7%;
+  }
+  .map {
+    margin-left: -6%;
+    margin-top: 30%;
+  }
+  .r {
+    margin-left: 14%;
+    margin-top: 10%;
+  }
+  .mail {
+    margin-left: -6%;
+    margin-top: 45%;
+  }
+  .email {
+    position: relative;
+    margin-left: -19%;
+    margin-top: 20%;
+    padding: 5%;
+  }
+  .logofooter {
+    width: 40%;
+    height: auto;
+    margin-left: 4%;
+    margin-top: 8%;
+  }
+  .text {
+    margin-top: 8%;
+    margin-left: 5%;
+    text-align: left;
+  }
+  .instagram {
+    position: relative;
+    margin-left: 5%;
+    margin-top: 20%;
+  }
+  .facebook {
+    position: relative;
+    margin-left: 10%;
+    margin-top: 20%;
+  }
+  .youtube {
+    position: relative;
+    margin-left: 10%;
+    margin-top: 20%;
+  }
+}
+@media screen and (min-width: 393px) and (max-width: 786px) {
+  #logotipo {
+    margin-top: -4%;
+    margin-left: -5%;
+  }
+  nav {
+    display: none;
+  }
+  hr {
+    margin-top: 20%;
+  }
+  #progressiva {
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    margin-left: -55%;
+    margin-top: -22%;
+  }
+  h3 {
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 82%;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+  }
+  p {
+    text-align: center;
+    margin-left: 0;
+    font-size: 16px;
+  }
+  button {
+    align-items: center;
+    margin-top: 7%;
+    margin-left: 23%;
+  }
+  #mulheres {
+    width: 100%;
+    height: auto;
+    margin-top: 13%;
+    margin-left: 0;
+  }
+  h2 {
+    margin-left: 1%;
+    margin-top: 5%;
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .sobre {
+    text-align: left;
+    margin-left: 5%;
+    width: 92%;
+  }
+  h1 {
+    text-align: left;
+    margin-left: 5%;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    margin-top: 15%;
+  }
+  .tratamentos {
+    text-align: left;
+    margin-left: 5%;
+    font-size: 17px;
+    line-height: 26px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .Capilar {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 10%;
+  }
+  .cortes {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 10%;
+  }
+  .tratamentoscapilar {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 10%;
+  }
+  .primeiroverde {
+    margin-top: -163%;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .segundoverde {
+    margin-top: 80%;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .terceiroverde {
+    margin-top: 82%;
+    margin-left: 5%;
+    width: 90%;
+  }
+  h4 {
+    font-size: 25px;
+    line-height: 45px;
+    font-style: normal;
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 15%;
+  }
+  .aspas {
+    margin-left: 0;
+  }
+  .cliente {
+    font-size: 14px;
+  }
+  .wanessa {
+    margin-left: -40%;
+    margin-top: -8%;
+  }
+  .minifoto {
+    margin-left: 5%;
+  }
+  #depoimentos1 {
+    margin-left: 2%;
+    width: 95%;
+  }
+  #depoimentos2 {
+    display: none;
+  }
+  .bolas {
+    margin-left: 42%;
+  }
+  h5 {
+    margin-left: 5%;
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 700;
+  }
+  .ouvir {
+    margin-left: 5%;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    margin-top: 8%;
+  }
+  .final {
+    margin-top: 8%;
+    margin-left: 5%;
+  }
+  .phone {
+    position: relative;
+    margin-left: 6%;
+    margin-top: 15%;
+  }
+  .number {
+    position: relative;
+    margin-left: -45%;
+    margin-top: -7%;
+  }
+  .map {
+    margin-left: -6%;
+    margin-top: 30%;
+  }
+  .r {
+    margin-left: 14%;
+    margin-top: 10%;
+  }
+  .mail {
+    margin-left: -6%;
+    margin-top: 45%;
+  }
+  .email {
+    position: relative;
+    margin-left: -19%;
+    margin-top: 20%;
+    padding: 5%;
+  }
+  .logofooter {
+    width: 40%;
+    height: auto;
+    margin-left: 4%;
+    margin-top: 8%;
+  }
+  .text {
+    margin-top: 8%;
+    margin-left: 5%;
+    text-align: left;
+  }
+  .instagram {
+    position: relative;
+    margin-left: 5%;
+    margin-top: 20%;
+  }
+  .facebook {
+    position: relative;
+    margin-left: 10%;
+    margin-top: 20%;
+  }
+  .youtube {
+    position: relative;
+    margin-left: 10%;
+    margin-top: 20%;
   }
 }
